@@ -4,6 +4,7 @@
 		<view class="text-area">
 			<text class="title">{{title}}</text>
 		</view>
+		<tn-button backgroundColor="#01beff" :plain="false">点击开始登录</tn-button>
 	</view>
 </template>
 

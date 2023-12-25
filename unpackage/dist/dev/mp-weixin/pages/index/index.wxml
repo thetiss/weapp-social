@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><text class="title">{{title}}</text></view><tn-button vue-id="8dd740cc-1" backgroundColor="#01beff" plain="{{false}}" bind:__l="__l" vue-slots="{{['default']}}">点击开始登录</tn-button></view>
